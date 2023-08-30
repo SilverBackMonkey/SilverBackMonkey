@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://gamerjournalist.com/wp-content/uploads/2021/08/Roblox-Free-Items-1024x576.jpg" alt="Welcome to dancingballs github" />
 <!--
 **dancingball/dancingball** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
