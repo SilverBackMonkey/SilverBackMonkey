@@ -1,5 +1,8 @@
 ### Hi there 👋
-<img src="//i0.wp.com/picjumbo.com/wp-content/uploads/man-looking-into-the-distance-on-top-of-the-mountain-free-photo.jpg?w=2210&quality=70" alt="Welcome to dancingballs github" />
+### 🤔 I’m looking for help with ...
+<picture>
+  <img src="//i0.wp.com/picjumbo.com/wp-content/uploads/man-looking-into-the-distance-on-top-of-the-mountain-free-photo.jpg?w=2210&quality=70" alt="Welcome to dancingballs github" />
+</picture>
 <!--
 **dancingball/dancingball** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
