@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 🤔 I’m looking for help with ...
 <picture>
-  <img src="https://img.freepik.com/premium-photo/capturing-triumph-man-s-hand-raised-atop-mountain-with-ample-copy-space_954894-20706.jpg" alt="Welcome to dancingballs github" />
+  <img src="https://img.freepik.com/premium-photo/capturing-triumph-man-s-hand-raised-atop-mountain-with-ample-copy-space_954894-20706.jpg" style="width: 100%" alt="Welcome to dancingballs github" />
 </picture>
 <!--
 **dancingball/dancingball** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
