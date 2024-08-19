@@ -1,5 +1,5 @@
 
 ### Time and tide wait for no one. Time keeps moving forward, and our only choice is to progress along with it.
-<picture>
+
  <img src="https://4kwallpapers.com/images/walls/thumbs_3t/11430.jpg" style="" alt="Welcome to dancingballs github" />
-picture>
+<img src="https://camo.githubusercontent.com/41e32bc4c749b07539c952e679f687a14405ac7e3a9b8fafc17da95da66dfdb2/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d646176657661643933267468656d653d6769746875622d636f6d706163742662675f636f6c6f723d303030303030266c696e653d30303941323226706f696e743d39384642393826636f6c6f723d303046463242267469746c655f636f6c6f723d30304646324226617265613d74727565" alt="MonkeyMndTech's GitHub activity graph" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=davevad93&amp;theme=github-compact&amp;bg_color=000000&amp;line=009A22&amp;point=98FB98&amp;color=00FF2B&amp;title_color=00FF2B&amp;area=true" style="max-width: 100%; visibility: visible;" data-xblocker="passed">
